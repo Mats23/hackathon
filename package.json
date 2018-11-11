@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "node-json-rpc": "^0.0.1",
+    "nodemon": "^1.18.6"
+  }
+}
