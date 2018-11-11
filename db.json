@@ -9,14 +9,16 @@
       "qtdDependentes": "4"
     }
   ],
-  "locais": [
+  "local": [
     {
-      "id":1,
+      "local": {
+        "id":1,
       "nome": "hash",
       "raio":"1",
       "categoria":"zumbi",
       "latitude": "-12.9812074",
       "longitude": "-38.4563283"
+      }
     }
   ],
   "servico": [
