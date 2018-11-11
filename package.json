@@ -9,7 +9,9 @@
   "author": "",
   "description": "",
   "devDependencies": {
-    "node-json-rpc": "^0.0.1",
     "nodemon": "^1.18.6"
+  },
+  "dependencies": {
+    "json-server": "^0.14.0"
   }
 }
