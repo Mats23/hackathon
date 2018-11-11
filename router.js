@@ -5,6 +5,7 @@ module.exports = (jsonServer) => {
         "/cadastro/colonia":"/colonia",
         "/cadastro/membro":"/membro",
         "/cadastro/servico": "/servico",
-        "/cadastro/recurso":"/recurso"
+        "/cadastro/recurso":"/recurso",
+        "/cadastro/local":"/local"
     });
 }
